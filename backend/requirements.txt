@@ -25,3 +25,5 @@ social-auth-core==4.4.2
 sqlparse==0.4.4
 tzdata==2023.3
 urllib3==2.0.6
+pandas== 2.0.3
+pickle == 4.0
