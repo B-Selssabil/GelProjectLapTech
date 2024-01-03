@@ -1,0 +1,14 @@
+customize footer 
+fix footer with sidebar(products page)
+complete other pages(cart, landing, favorite, about, contact, buy=products page, sell, details, predict products page)
+make a schema for database
+add ai model(predicting laptops prices)
+crud operations
+responsive website 
+search and filter laptops
+pagination (products page)
+
+optional: 
+stars (laptop feedback)
+favorite
+

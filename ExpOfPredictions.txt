@@ -1,0 +1,14 @@
+{
+    "company" : "Acer",
+    "typeName": "Gaming",
+    "inches": 15.6,
+    "resolution" : "1600x900",
+    "ram" : 16,
+    "opSystem": "Linux",
+    "weight": 1.4,
+    "memoType" : "SSD",
+    "memoSize" : 500,
+    "cpu" : "Intel Core i7 7820HK 2.9GHz",
+    "gpu" : "AMD Radeon R3"
+
+}

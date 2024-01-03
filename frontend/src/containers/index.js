@@ -1,0 +1,14 @@
+export { default as Landing } from "./Landing";
+export { default as About } from "./About";
+export { default as Products } from "./Products/Products";
+export { default as Contact } from "./Contact";
+export { default as Favorite } from "./Favorite";
+export { default as Cart } from "./Cart";
+export { default as Sell } from "./Sell";
+export { default as ProductPredict } from "./ProductPredict";
+export { default as Activate } from "./Activate";
+export { default as Login } from "./Login";
+export { default as Signup } from "./Signup";
+export { default as ResetPassword } from "./ResetPassword";
+export { default as ResetPasswordConfirm } from "./ResetPasswordConfirm";
+export { default as Google } from "./Google";
